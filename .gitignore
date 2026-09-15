@@ -1,0 +1,12 @@
+/build*/
+/.vitasdk/
+/.toolchain/
+/runtime-data/
+*.iso
+*.gcm
+*.rvz
+*.vpk
+*.self
+.DS_Store
+__pycache__/
+*.pyc
